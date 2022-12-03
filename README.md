@@ -1,2 +1,2 @@
 # sample_project
-Git hub testing project. Just for sample
+Git hub testing project. Just for sample purpose
