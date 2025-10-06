@@ -4,6 +4,6 @@ its me vijay
 and also Annamalai
 
 
-This data added today 10.02
+This data added thisday 10.02
 
-/* this is odded in copy_of_main
+/* this is versionadded in copy_of_main
