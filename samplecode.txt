@@ -6,4 +6,4 @@ and also Annamalai
 
 This data added today 10.02
 
-/* this is added in copy_of_main
+/* this is odded in copy_of_main
